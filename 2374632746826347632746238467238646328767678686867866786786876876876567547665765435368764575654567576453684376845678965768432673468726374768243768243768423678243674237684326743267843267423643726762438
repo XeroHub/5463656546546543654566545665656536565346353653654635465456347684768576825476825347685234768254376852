@@ -1,0 +1,5 @@
+                      --Remember this script is kind of old i guess so-
+                              --Don't be a skid with it :>--
+                              
+                              
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua"))()
